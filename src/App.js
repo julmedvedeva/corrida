@@ -1,7 +1,6 @@
 import React from 'react';
-import './App.css';
 import styled from 'styled-components';
-import { Counter, Gratings, } from './Crating';
+import { Gratings, } from './Crating';
 import BootstrapTest from './BootstrapTest';
 import { Form } from './Form';
 
